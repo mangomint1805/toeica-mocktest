@@ -25,11 +25,9 @@ Mở đường link ở trên, chọn bài thầy đã giao rồi bấm **Làm b
 | 3 | Mock Test 1 · Part 1 | Photographs · 10 câu · 10 phút · có phần nghe | ✅ Đã mở |
 | 6 | Mock Test 2 · Part 2 | Question–Response · 25 câu · 15 phút · có phần nghe | ✅ Đã mở |
 | 10 | Mock Test 3 · Part 5, 6 | Incomplete Sentences & Text Completion · 46 câu · 46 phút | ✅ Đã mở |
-| 12 | Progress Test 1 | Kiểm tra giữa khóa · Nghe và Đọc · 77 câu · 65 phút | ✅ Đã mở |
 | 15 | Mock Test 4 · Part 3 | Conversations · 39 câu · 24 phút · có phần nghe | ✅ Đã mở |
 | 19 | Mock Test 5 · Part 4 | Talks · 30 câu · 20 phút · có phần nghe | ✅ Đã mở |
 | 22 | Mock Test 6 · Part 7 | Reading Comprehension · 54 câu · 55 phút | ✅ Đã mở |
-| 24 | Progress Test 2 | Kiểm tra cuối khóa · Nghe và Đọc · 200 câu · 125 phút | ✅ Đã mở |
 
 ---
 
@@ -38,7 +36,7 @@ Mở đường link ở trên, chọn bài thầy đã giao rồi bấm **Làm b
 **Các file trong repo:**
 
 - `index.html` là trang chủ, hiện danh sách bài theo lịch học.
-- Bài có phần nghe dài lấy file âm thanh trong thư mục `audio/` (đừng xóa hay đổi tên). Mỗi bài kiểm tra là một file `.html` riêng, ví dụ `TOEIC A MOCK TEST 1 PART 1 - EXAM.html`.
+- Bài có phần nghe dài lấy file âm thanh trong thư mục `audio/` (đừng xóa hay đổi tên). Progress Test làm trên giấy, không đưa lên đây. Mỗi bài kiểm tra là một file `.html` riêng, ví dụ `TOEIC A MOCK TEST 1 PART 1 - EXAM.html`.
 - Đáp án **không** nằm trong các file này. Bài được chấm trên Google Apps Script, kết quả gửi về Google Sheet, mỗi bài một tab riêng.
 
 **Mở thêm một bài mới:**
